@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1>Naam:</h1> Daan Blankenstijn
+<h1>Opleiding:</h1> Software development aan het Hoornbeeck College Amersfoort.
+<h1>Hobby's:</h1> Programmeren
 
 <!--
 **Daan474/Daan474** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
